@@ -1,2 +1,1 @@
-# brs-api
-
+-Sequelize ORM and CodeIgniter PHP
